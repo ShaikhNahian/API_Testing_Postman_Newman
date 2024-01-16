@@ -19,7 +19,7 @@
 <img src="https://res.cloudinary.com/dncod5rnj/image/upload/v1672998764/api%20testing/delete_booking_sqsw4x.png" alt="project-screenshot" width="500" height="400/">
 
 <h3> Summary Report <h3>
-<img src="https://res.cloudinary.com/dncod5rnj/image/upload/v1672998763/api%20testing/newman_report_k8hjir.png" alt="project-screenshot" width="500" height="400/">
+<img src="https://res.cloudinary.com/dkvjcepus/image/upload/v1705449368/newman_report_sn_kft44q.png" alt="project-screenshot" width="500" height="400/">
 
   
   
